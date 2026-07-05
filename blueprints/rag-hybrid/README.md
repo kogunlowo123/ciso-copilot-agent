@@ -1,0 +1,5 @@
+# Rag Hybrid Blueprint
+
+Topology that composes modules for Ciso Copilot Agent.
+
+See `factory/catalog.yaml` for module composition.

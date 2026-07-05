@@ -47,6 +47,11 @@ CISO copilot agent that monitors security posture, tracks compliance status, ass
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 ciso-copilot-agent/
 │
